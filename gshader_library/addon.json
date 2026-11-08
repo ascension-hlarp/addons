@@ -1,0 +1,12 @@
+{
+  "title": "GShader Library",
+  "type": "tool",
+  "tags": [
+    "scenic"
+  ],
+  "ignore": [
+    "*.rar",
+    "*.h",
+    "*.hlsl"
+  ]
+}

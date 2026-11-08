@@ -1,0 +1,16 @@
+{
+  "title": "Fog 2: Electric Boogaloo",
+  "type": "effects",
+  "tags": [
+    "scenic",
+    "build",
+    "realism"
+  ],
+  "ignore": [
+    ".gitattributes",
+    ".shadersrc/*",
+    "site/*",
+    "docs/*",
+    "mkdocs.yml"
+  ]
+}
